@@ -1,1 +1,2 @@
 # 208CW1_YData-Profiling-Report
+In real-world industrial data science workflows, automated EDA frameworks are frequently employed to accelerate this phase. The ydata-profiling library, for instance, generates a comprehensive interactive HTML report with a single line of code (ProfileReport(data)), surfacing correlation matrices, missing-value patterns, and feature-level alerts — providing substantially richer diagnostic insight than manual inspection alone.
